@@ -1,0 +1,26 @@
+body {
+	background: gainsboro;
+	margin: 0;
+}
+
+header {
+	content: "";
+	height: 200px;
+	background-color: #424242;
+}
+
+section	{
+	margin: 0 150px;
+}
+
+article {
+	content: "";
+	min-height: 800px;
+	background-color: #fbfbfb;
+}
+
+footer {
+	content: "";
+	min-height: 100px;
+	background-color: #2c2c2c;
+}
